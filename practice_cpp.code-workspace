@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "practice_single_file"
+		},
+		{
+			"path": "practice_make"
+		},
+		{
+			"path": "practice_cmake"
+		},
+		{
+			"path": "project_bank_service"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp",
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"cstdlib": "cpp",
+			"deque": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
